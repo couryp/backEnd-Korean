@@ -61,7 +61,6 @@ let userinitQuestions = id => {
         user_id: id,
         question_id: question.id,
         is_correct: false,
-        session: 0
       }))
       return knex('users_questions').insert(inserts)
     })
