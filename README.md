@@ -1,6 +1,6 @@
 # [han(:)gul](http://hangul.surge.sh/)
 
-[han(:)gul](http://hangul.surge.sh/) is a React browser application that will teach a user how to read and pronounce basic Korean characters. A user will be able to study Korean consonants and syllables at their own pace. Afterwards, they can take a quiz that will test their fundamental understanding of Korean characters utilizing the [spaced-repetition](https://en.wikipedia.org/wiki/Spaced_repetition) technique.
+[han(:)gul](http://hangul.surge.sh/) is a React browser application that will teach a user how to read and pronounce basic Korean characters. A user will be able to study Korean consonants and syllables at their own pace. Afterwards, they can take a quiz that will test their fundamental understanding of Korean characters utilizing the [spaced-repetition](https://en.wikipedia.org/wiki/Spaced_repetition) technique. Developed in one week.
 
 ## Built With
 
@@ -29,3 +29,15 @@
 
 * [Front-end](https://github.com/couryp/frontEnd-Korean)
 * [Back-end](https://github.com/couryp/backEnd-Korean)
+* [http://hangul.surge.sh/](http://hangul.surge.sh/)
+
+## Screenshots
+
+## Splash Screen:
+![Alt text](./assets/hangul1.png)
+
+## Study Korean Characters:
+![Alt text](./assets/hangul2.png)
+
+## Quiz Yourself:
+![Alt text](./assets/hangul3.png)
